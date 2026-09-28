@@ -22,5 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Part1_LinearLayout"
+rootProject.name = "Part2_ConstraintLayout"
 include(":app")
+ 
