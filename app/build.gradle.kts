@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.part1_linearlayout"
+    namespace = "com.example.part2_constraintlayout"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.part1_linearlayout"
+        applicationId = "com.example.part2_constraintlayout"
         minSdk = 24
         targetSdk = 37
         versionCode = 1
